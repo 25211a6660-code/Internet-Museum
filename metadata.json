@@ -1,0 +1,6 @@
+{
+  "name": "Internet Museum",
+  "description": "An interactive digital museum exploring the evolution of the internet and digital technology from ARPANET to the AI era.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
